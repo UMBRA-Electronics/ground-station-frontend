@@ -1,0 +1,24 @@
+.title{
+    margin-top:-80%;
+    margin-bottom: 16%;
+}
+
+#type{
+    color: white;
+}
+
+#value{
+    color: #ffffff;
+    font-size: 1.5em;/*Change this along if you want the text to match the width size */
+}
+
+#units{
+    color: white;
+}
+
+.dashboard{
+    background: rgba(14,16,28,.4);
+    padding: 1%;
+
+}
+
