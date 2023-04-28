@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/UMBRA-Electronics/ExoBronco-Avionics/tree/dev/Software/GroundStation/NewCasper/casperv7/static/css/main.64100acc.css",
+    "main.js": "/UMBRA-Electronics/ExoBronco-Avionics/tree/dev/Software/GroundStation/NewCasper/casperv7/static/js/main.148eb3d8.js",
+    "static/js/787.9f63ac00.chunk.js": "/UMBRA-Electronics/ExoBronco-Avionics/tree/dev/Software/GroundStation/NewCasper/casperv7/static/js/787.9f63ac00.chunk.js",
+    "static/media/PyroChannelEmblem.png": "/UMBRA-Electronics/ExoBronco-Avionics/tree/dev/Software/GroundStation/NewCasper/casperv7/static/media/PyroChannelEmblem.8b94f3d25b935a916574.png",
+    "static/media/rocketBeta.png": "/UMBRA-Electronics/ExoBronco-Avionics/tree/dev/Software/GroundStation/NewCasper/casperv7/static/media/rocketBeta.44d5d6ab38f2fa2affc5.png",
+    "index.html": "/UMBRA-Electronics/ExoBronco-Avionics/tree/dev/Software/GroundStation/NewCasper/casperv7/index.html",
+    "main.64100acc.css.map": "/UMBRA-Electronics/ExoBronco-Avionics/tree/dev/Software/GroundStation/NewCasper/casperv7/static/css/main.64100acc.css.map",
+    "main.148eb3d8.js.map": "/UMBRA-Electronics/ExoBronco-Avionics/tree/dev/Software/GroundStation/NewCasper/casperv7/static/js/main.148eb3d8.js.map",
+    "787.9f63ac00.chunk.js.map": "/UMBRA-Electronics/ExoBronco-Avionics/tree/dev/Software/GroundStation/NewCasper/casperv7/static/js/787.9f63ac00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64100acc.css",
+    "static/js/main.148eb3d8.js"
+  ]
+}
